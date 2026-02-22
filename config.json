@@ -2,7 +2,7 @@
   "mileageRates": {
     "2024": 0.67,
     "2025": 0.70,
-    "2026": 0.70
+    "2026": 0.72
   },
   "locations": [
     { "name": "BBHS",  "latitude": 41.590167,  "longitude": -109.2384506, "radius": 50, "address": "2410 College Dr, Rock Springs, WY 82901" },
